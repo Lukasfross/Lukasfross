@@ -24,3 +24,4 @@ function draw() {
 // guardiões da galáxia, 12, fantasia, aventura
 // ladrões de bicicleta, 12, drama
 // o menino que descobriu o vento, 14, drama
+idade >= 10
